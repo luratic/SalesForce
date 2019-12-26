@@ -9,7 +9,7 @@ Google may provide), as modified from time to time.
 ___INFO___
 
 {
-  "displayName": "PX_SALESFORCE_AUDIENCE_STUDIO",
+  "displayName": "Salesforce Event Tracker"
   "description": "Píxel de Salesforce destinado a medir audiencias provenientes de emails.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
