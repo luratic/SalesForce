@@ -1,3 +1,5 @@
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/tags/salesforce-event-tracker/"
 versions:
   - sha: 5cc83c547f49c199c5136beae17c63a37a94ffcb
   - changeNotes: fix naming
