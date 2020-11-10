@@ -107,4 +107,9 @@ sendPixel(trackingUrl,data.gtmOnSuccess,data.gtmOnFailure);
 
 ___NOTES___
 
-Created on 3/10/2019 17:17:16
+Developed with ❤ by: Alfonso, Txema and Brais.
+Web: www.luratic.com
+Linkedin: 
+https://www.linkedin.com/in/braiscalvo/
+https://www.linkedin.com/in/alfonsorc/
+https://www.linkedin.com/in/txema-s%C3%A1nchez-a48482ba/
